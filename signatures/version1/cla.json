@@ -399,6 +399,14 @@
       "created_at": "2026-10-30T22:56:55Z",
       "repoId": 575321313,
       "pullRequestNo": 2826
+    },
+    {
+      "name": "richa-nvidia",
+      "id": 189608735,
+      "comment_id": 6659915174,
+      "created_at": "2026-11-05T14:01:47Z",
+      "repoId": 575321313,
+      "pullRequestNo": 2816
     }
   ]
 }
